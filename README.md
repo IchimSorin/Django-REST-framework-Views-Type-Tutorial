@@ -1,3 +1,4 @@
+![Django REST framework - Views Type Tutorial](https://user-images.githubusercontent.com/34681854/123549996-fcf41e80-d773-11eb-8dda-40838b91ff86.PNG)
 # Django-REST-framework-Views-Type-Tutorial
 In this project, using the official documentation (https://www.django-rest-framework.org/) and following step by step the
  tutorial (https://youtu.be/B38aDwUpcFc), I went through different type of routes views and viewsets.
